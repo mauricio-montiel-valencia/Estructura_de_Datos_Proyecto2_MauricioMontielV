@@ -1,0 +1,11 @@
+Model\Airport.class
+Model\PathFinder$1.class
+View\ConsoleView.class
+Model\GraphLoader.class
+Model\RoutePath.class
+Model\PathFinder.class
+Controller\AppController.class
+Main\Main.class
+Model\Route.class
+Model\Graph.class
+Model\RouteCriterion.class
